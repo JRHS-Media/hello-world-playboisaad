@@ -36,15 +36,10 @@ p{
     height: 100px;
     rad 
 }
-.flex-container > div {
+.flex-container {
     background-color:#808080;
 margin: 10px;
 padding: 20 px
 font-size: 30px ;
 }
-</style>
-</head>
-<body>
 
-<h1>Create a Flex Container</h1>
-<div class="flex-container">
